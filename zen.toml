@@ -11,6 +11,7 @@ version = 3
 [[blocks]]
   type = 'prompt'
   alignment = 'left'
+  newline = true
 
   [[blocks.segments]]
     leading_diamond = ''
