@@ -80,7 +80,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-[ -r /home/jhonarol/.config/byobu/prompt ] && . /home/jhonarol/.config/byobu/prompt   #byobu-prompt#
+[ -r /home/jhonarol/.config/byobu/prompt ] && . /home/jhonarol/.config/byobu/prompt   #byobu-promp
 
 neofetch
 
