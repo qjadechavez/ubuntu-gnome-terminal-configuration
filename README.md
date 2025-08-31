@@ -1,1 +1,1 @@
-# ubuntu-bash-configuration (neofetch 
+# ubuntu-bash-configuration
